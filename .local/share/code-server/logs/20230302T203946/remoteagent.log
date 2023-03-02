@@ -1,0 +1,13 @@
+2023-03-02 20:39:46.221 [info] 
+
+
+
+
+2023-03-02 20:39:46.396 [info] Extension host agent started.
+2023-03-02 20:40:15.816 [info] [192.168.127.235][c27d8db7][ManagementConnection] New connection established.
+2023-03-02 20:41:02.925 [info] [192.168.127.235][ada059d8][ExtensionHostConnection] New connection established.
+2023-03-02 20:41:03.231 [info] [192.168.127.235][ada059d8][ExtensionHostConnection] <568> Launched Extension Host Process.
+2023-03-02 20:41:55.693 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot autolaunch D-Bus without X11 $DISPLAY
+2023-03-02 20:42:32.826 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-03-02 21:04:35.687 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-03-02 21:15:20.472 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

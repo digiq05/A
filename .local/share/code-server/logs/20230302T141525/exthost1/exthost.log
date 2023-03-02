@@ -1,0 +1,461 @@
+2023-03-02 14:21:09.068 [info] Extension host with pid 952 started
+2023-03-02 14:21:09.168 [error] Error: EEXIST: file already exists, open '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock'
+2023-03-02 14:21:09.571 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-03-02 14:21:09.867 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': The pid 9999 appears to be gone.
+2023-03-02 14:21:09.868 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': Deleting a stale lock.
+2023-03-02 14:21:10.566 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-02 14:21:10.567 [info] ExtensionService#_doActivateExtension kube.42header, startup: true, activationEvent: '*'
+2023-03-02 14:21:11.964 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': Lock acquired.
+2023-03-02 14:21:12.970 [error] [ExtHostStorage] {"code":"Unknown","name":"Canceled (FileSystemError)"}
+2023-03-02 14:21:12.974 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-02 14:21:13.064 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-02 14:21:19.482 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 14:21:19.483 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 14:21:19.564 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 14:21:19.565 [info] Eager extensions activated
+2023-03-02 14:21:21.169 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.170 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.171 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.173 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.173 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.174 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.265 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.266 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.267 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.268 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.269 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.270 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.270 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.271 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.364 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.364 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.365 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.366 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.366 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.866 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.866 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.866 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:21.867 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:22.367 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:22.367 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:22.370 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:22.465 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.572 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.572 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.664 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.665 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.665 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.665 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.666 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:23.666 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:25.266 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:25.267 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:25.267 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:25.267 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:26.365 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:26.366 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:26.366 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:26.366 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.267 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.365 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.365 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.366 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.773 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.773 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.774 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:27.774 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:28.372 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:28.464 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:28.464 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:28.466 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:29.169 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:29.170 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:29.265 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:29.265 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.070 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.071 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.071 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.071 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.367 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.367 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.368 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:30.368 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:31.571 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:31.571 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:31.572 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:31.573 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:32.572 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:32.572 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:32.664 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:32.666 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.371 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.371 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.371 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.372 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.871 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.872 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.872 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.874 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.965 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.965 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:33.966 [error] Canceled (FileSystemError): Canceled
+	at Function._handleError (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:30407)
+	at Object.createDirectory (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:94:28657)
+	at async /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:3177
+	at async r.doCreateLogOutputChannel (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:103:2627)
+2023-03-02 14:21:36.968 [info] Extension host with pid 1626 started
+2023-03-02 14:21:36.969 [error] Error: EEXIST: file already exists, open '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock'
+2023-03-02 14:21:37.171 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-03-02 14:21:37.267 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': The lock does not look stale, elapsed: 803 ms, giving up.
+2023-03-02 14:21:38.072 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-02 14:21:38.074 [info] ExtensionService#_doActivateExtension kube.42header, startup: true, activationEvent: '*'
+2023-03-02 14:21:38.271 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc-1/vscode.lock': Lock acquired.
+2023-03-02 14:21:48.167 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 14:21:48.170 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 14:21:48.171 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 14:26:45.283 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-03-02 14:26:45.286 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-02 14:26:45.297 [info] Extension host with pid 1626 exiting with code 0
+2023-03-02 14:26:45.492 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-03-02 14:26:45.493 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-02 14:26:45.504 [info] Extension host with pid 952 exiting with code 0

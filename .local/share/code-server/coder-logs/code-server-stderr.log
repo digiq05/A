@@ -1,0 +1,15 @@
+[09:57:30] No ptyHost heartbeat after 6 seconds
+Failed login attempt {"xForwardedFor":"192.168.88.0","remoteAddress":"192.168.127.235","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36","timestamp":1677751200}
+Failed login attempt {"xForwardedFor":"192.168.88.0","remoteAddress":"192.168.127.235","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36","timestamp":1677751223}
+[11:01:03] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot autolaunch D-Bus without X11 $DISPLAY
+[11:14:51] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[11:15:34] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[11:32:20] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[14:15:32] No ptyHost heartbeat after 6 seconds
+Failed login attempt {"xForwardedFor":"192.168.88.0","remoteAddress":"192.168.127.235","userAgent":"Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Mobile Safari/537.36","timestamp":1677763221}
+[14:20:53] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot autolaunch D-Bus without X11 $DISPLAY
+[20:39:30] No ptyHost heartbeat after 6 seconds
+[20:41:55] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot autolaunch D-Bus without X11 $DISPLAY
+[20:42:32] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[21:04:35] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[21:15:20] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

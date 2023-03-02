@@ -1,0 +1,148 @@
+2023-03-02 11:01:41.760 [info] Validating found git in: git
+2023-03-02 11:01:41.760 [info] Using git 2.25.1 from git
+2023-03-02 11:01:41.760 [info] > git rev-parse --show-toplevel [100ms]
+2023-03-02 11:01:41.818 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.819 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-02 11:01:41.819 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.819 [info] > git rev-parse --show-toplevel [89ms]
+2023-03-02 11:01:41.820 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.820 [info] > git rev-parse --show-toplevel [109ms]
+2023-03-02 11:01:41.821 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.822 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:01:41.822 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.823 [info] > git rev-parse --show-toplevel [5ms]
+2023-03-02 11:01:41.823 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.824 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:01:41.825 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.825 [info] > git rev-parse --show-toplevel [73ms]
+2023-03-02 11:01:41.825 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.825 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:01:41.825 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.825 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:01:41.826 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.826 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:01:41.827 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.827 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:01:41.828 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.831 [info] > git rev-parse --show-toplevel [71ms]
+2023-03-02 11:01:41.832 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.852 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:01:41.852 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.923 [info] > git rev-parse --show-toplevel [59ms]
+2023-03-02 11:01:41.923 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:41.944 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:01:41.944 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:42.032 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:01:42.032 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:42.050 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:01:42.050 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:42.125 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:01:42.125 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:42.143 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:01:42.143 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:01:49.429 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:01:49.430 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:14:14.056 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:14:14.337 [info] > git rev-parse --git-dir --git-common-dir [267ms]
+2023-03-02 11:14:14.433 [info] Log level: Info
+2023-03-02 11:14:14.433 [info] Open repository: /home/coder/.basecamp/basecamp_warmup
+2023-03-02 11:14:14.652 [info] > git status -z -uall [23ms]
+2023-03-02 11:14:14.718 [info] > git remote --verbose [103ms]
+2023-03-02 11:14:14.720 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [185ms]
+2023-03-02 11:14:14.724 [info] > git config --get commit.template [71ms]
+2023-03-02 11:14:14.745 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-02 11:14:14.941 [info] > git status -z -uall [91ms]
+2023-03-02 11:14:14.942 [info] > git remote --verbose [112ms]
+2023-03-02 11:14:15.019 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [259ms]
+2023-03-02 11:14:15.023 [info] > git config --get commit.template [81ms]
+2023-03-02 11:14:15.155 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [112ms]
+2023-03-02 11:14:52.652 [warning] ENOENT: no such file or directory, open '/home/coder/.basecamp/basecamp_warmup/.git/HEAD'
+2023-03-02 11:15:33.246 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:15:33.261 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-03-02 11:15:33.325 [info] Log level: Info
+2023-03-02 11:15:33.325 [info] Open repository: /home/coder/.basecamp/basecamp_warmup
+2023-03-02 11:15:33.627 [info] > git status -z -uall [99ms]
+2023-03-02 11:15:33.629 [info] > git remote --verbose [194ms]
+2023-03-02 11:15:33.630 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [293ms]
+2023-03-02 11:15:33.632 [info] > git config --get commit.template [5ms]
+2023-03-02 11:15:33.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-03-02 11:15:35.235 [warning] ENOENT: no such file or directory, open '/home/coder/.basecamp/basecamp_warmup/.git/HEAD'
+2023-03-02 11:18:54.443 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:18:54.624 [info] > git rev-parse --git-dir --git-common-dir [86ms]
+2023-03-02 11:18:54.733 [info] Log level: Info
+2023-03-02 11:18:54.733 [info] Open repository: /home/coder/.basecamp/basecamp_warmup
+2023-03-02 11:18:55.141 [info] > git status -z -uall [104ms]
+2023-03-02 11:18:55.146 [info] > git remote --verbose [217ms]
+2023-03-02 11:18:55.146 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:18:55.146 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [318ms]
+2023-03-02 11:18:55.148 [info] > git config --get commit.template [7ms]
+2023-03-02 11:18:55.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-03-02 11:18:55.236 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:18:55.763 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:18:55.763 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:21:13.440 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-02 11:21:13.524 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-03-02 11:21:13.536 [info] Log level: Info
+2023-03-02 11:21:13.536 [info] Open repository: /home/coder/.basecamp/basecamp_warmup
+2023-03-02 11:21:13.827 [info] > git status -z -uall [93ms]
+2023-03-02 11:21:13.832 [info] > git remote --verbose [195ms]
+2023-03-02 11:21:13.834 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [206ms]
+2023-03-02 11:21:13.835 [info] > git config --get commit.template [9ms]
+2023-03-02 11:21:13.851 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-03-02 11:21:13.851 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:21:14.411 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:21:14.411 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:32:19.774 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:32:19.791 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-03-02 11:32:19.834 [info] Log level: Info
+2023-03-02 11:32:19.834 [info] Open repository: /home/coder/.basecamp/basecamp_warmup
+2023-03-02 11:32:19.950 [info] > git status -z -uall [12ms]
+2023-03-02 11:32:19.951 [info] > git remote --verbose [91ms]
+2023-03-02 11:32:20.021 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [174ms]
+2023-03-02 11:32:20.025 [info] > git config --get commit.template [74ms]
+2023-03-02 11:32:20.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-03-02 11:32:21.956 [warning] ENOENT: no such file or directory, open '/home/coder/.basecamp/basecamp_warmup/.git/HEAD'
+2023-03-02 11:32:28.339 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-02 11:32:28.442 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2023-03-02 11:32:28.446 [info] Log level: Info
+2023-03-02 11:32:28.446 [info] Open repository: /home/coder/.basecamp/basecamp_warmup
+2023-03-02 11:32:28.835 [info] > git status -z -uall [106ms]
+2023-03-02 11:32:28.837 [info] > git remote --verbose [204ms]
+2023-03-02 11:32:28.837 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:32:28.837 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [312ms]
+2023-03-02 11:32:28.838 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:32:28.839 [info] > git config --get commit.template [5ms]
+2023-03-02 11:32:28.928 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-03-02 11:32:28.928 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-03-02 11:32:29.449 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-02 11:32:29.449 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

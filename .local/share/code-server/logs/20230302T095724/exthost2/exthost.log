@@ -1,0 +1,10 @@
+2023-03-02 11:56:23.530 [info] Extension host with pid 9999 started
+2023-03-02 11:56:23.632 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/3d8b1adc/vscode.lock': Lock acquired.
+2023-03-02 11:56:23.737 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-02 11:56:23.738 [info] ExtensionService#_doActivateExtension kube.42header, startup: true, activationEvent: '*'
+2023-03-02 11:56:25.181 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-02 11:56:25.182 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-02 11:56:26.121 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 11:56:26.122 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 11:56:26.123 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-02 11:56:26.124 [info] Eager extensions activated

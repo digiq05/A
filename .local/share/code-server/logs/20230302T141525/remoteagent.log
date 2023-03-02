@@ -1,0 +1,23 @@
+2023-03-02 14:15:25.898 [info] 
+
+
+
+
+2023-03-02 14:15:26.170 [info] Extension host agent started.
+2023-03-02 14:15:32.014 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-02 14:20:52.919 [info] [192.168.127.235][874cfe35][ManagementConnection] New connection established.
+2023-03-02 14:20:53.742 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot autolaunch D-Bus without X11 $DISPLAY
+2023-03-02 14:21:02.366 [info] [192.168.127.235][67ede061][ExtensionHostConnection] New connection established.
+2023-03-02 14:21:02.404 [info] [192.168.127.235][67ede061][ExtensionHostConnection] <952> Launched Extension Host Process.
+2023-03-02 14:21:20.770 [info] [192.168.127.235][874cfe35][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-02 14:21:24.566 [info] [192.168.127.235][075a9bf2][ExtensionHostConnection] New connection established.
+2023-03-02 14:21:25.775 [info] [192.168.127.235][075a9bf2][ExtensionHostConnection] <1626> Launched Extension Host Process.
+2023-03-02 14:21:44.966 [info] [192.168.127.235][fcc89cb4][ManagementConnection] New connection established.
+2023-03-02 14:21:54.065 [info] [192.168.127.235][37420ee1][ExtensionHostConnection] New connection established.
+2023-03-02 14:21:54.504 [info] [192.168.127.235][37420ee1][ExtensionHostConnection] <2317> Launched Extension Host Process.
+2023-03-02 14:26:45.306 [info] [192.168.127.235][075a9bf2][ExtensionHostConnection] <1626> Extension Host Process exited with code: 0, signal: null.
+2023-03-02 14:26:45.514 [info] [192.168.127.235][67ede061][ExtensionHostConnection] <952> Extension Host Process exited with code: 0, signal: null.
+2023-03-02 14:32:47.091 [info] [192.168.127.235][7abb3430][ManagementConnection] New connection established.
+2023-03-02 14:32:53.668 [info] [192.168.127.235][681058f4][ExtensionHostConnection] New connection established.
+2023-03-02 14:32:53.876 [info] [192.168.127.235][681058f4][ExtensionHostConnection] <3935> Launched Extension Host Process.
+2023-03-02 14:37:48.300 [info] [192.168.127.235][37420ee1][ExtensionHostConnection] <2317> Extension Host Process exited with code: 0, signal: null.

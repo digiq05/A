@@ -1,0 +1,6 @@
+2023-03-02 09:57:12.058 [info] Getting Manifest... kube.42header
+2023-03-02 09:57:12.559 [info] Installing extension: kube.42header
+2023-03-02 09:57:16.956 [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.1bb052fb-85f9-4007-8208-44354664951e: kube.42header
+2023-03-02 09:57:16.960 [info] Renamed to /home/coder/.local/share/code-server/extensions/kube.42header-0.42.9-universal
+2023-03-02 09:57:16.963 [info] Extracting completed. kube.42header
+2023-03-02 09:57:16.963 [info] Extension installed successfully: kube.42header

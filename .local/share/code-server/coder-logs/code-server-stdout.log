@@ -1,0 +1,84 @@
+[2023-03-02T08:57:19.444Z] info  code-server 4.9.1 f7989a4dfcf21085e52157a01924d79d708bcc05
+[2023-03-02T08:57:19.445Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-03-02T08:57:19.457Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-03-02T08:57:19.457Z] info  HTTP server listening on http://0.0.0.0:8080/ 
+[2023-03-02T08:57:19.457Z] info    - Authentication is enabled
+[2023-03-02T08:57:19.457Z] info      - Using password from ~/.config/code-server/config.yaml
+[2023-03-02T08:57:19.457Z] info    - Not serving HTTPS 
+[09:57:24] 
+
+
+
+
+[09:57:24] Extension host agent started.
+[11:01:02] [192.168.127.235][265a0f0c][ManagementConnection] New connection established.
+[11:01:12] [192.168.127.235][c14a6a0f][ExtensionHostConnection] New connection established.
+[11:01:12] [192.168.127.235][c14a6a0f][ExtensionHostConnection] <1059> Launched Extension Host Process.
+[11:55:58] [192.168.127.235][265a0f0c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:55:58] [192.168.127.235][c14a6a0f][ExtensionHostConnection] <1059> Extension Host Process exited with code: 0, signal: null.
+[11:56:10] [192.168.127.235][201bc56e][ManagementConnection] New connection established.
+[11:56:16] [192.168.127.235][df6145e3][ExtensionHostConnection] New connection established.
+[11:56:16] [192.168.127.235][df6145e3][ExtensionHostConnection] <9999> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 6496 chars and 1 size events
+[2023-03-02T13:15:14.593Z] info  code-server 4.9.1 f7989a4dfcf21085e52157a01924d79d708bcc05
+[2023-03-02T13:15:14.594Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-03-02T13:15:14.668Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-03-02T13:15:14.669Z] info  HTTP server listening on http://0.0.0.0:8080/ 
+[2023-03-02T13:15:14.669Z] info    - Authentication is enabled
+[2023-03-02T13:15:14.669Z] info      - Using password from ~/.config/code-server/config.yaml
+[2023-03-02T13:15:14.670Z] info    - Not serving HTTPS 
+[14:15:25] 
+
+
+
+
+[14:15:26] Extension host agent started.
+[14:20:52] [192.168.127.235][874cfe35][ManagementConnection] New connection established.
+[14:21:02] [192.168.127.235][67ede061][ExtensionHostConnection] New connection established.
+[14:21:02] [192.168.127.235][67ede061][ExtensionHostConnection] <952> Launched Extension Host Process.
+[14:21:20] [192.168.127.235][874cfe35][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:21:24] [192.168.127.235][075a9bf2][ExtensionHostConnection] New connection established.
+[14:21:25] [192.168.127.235][075a9bf2][ExtensionHostConnection] <1626> Launched Extension Host Process.
+[14:21:44] [192.168.127.235][fcc89cb4][ManagementConnection] New connection established.
+[14:21:54] [192.168.127.235][37420ee1][ExtensionHostConnection] New connection established.
+[14:21:54] [192.168.127.235][37420ee1][ExtensionHostConnection] <2317> Launched Extension Host Process.
+[14:26:45] [192.168.127.235][075a9bf2][ExtensionHostConnection] <1626> Extension Host Process exited with code: 0, signal: null.
+[14:26:45] [192.168.127.235][67ede061][ExtensionHostConnection] <952> Extension Host Process exited with code: 0, signal: null.
+[14:32:47] [192.168.127.235][7abb3430][ManagementConnection] New connection established.
+[14:32:53] [192.168.127.235][681058f4][ExtensionHostConnection] New connection established.
+[14:32:53] [192.168.127.235][681058f4][ExtensionHostConnection] <3935> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 2157 chars and 1 size events
+[14:37:48] [192.168.127.235][37420ee1][ExtensionHostConnection] <2317> Extension Host Process exited with code: 0, signal: null.
+[2023-03-02T19:39:13.127Z] info  code-server 4.9.1 f7989a4dfcf21085e52157a01924d79d708bcc05
+[2023-03-02T19:39:13.128Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-03-02T19:39:13.139Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-03-02T19:39:13.139Z] info  HTTP server listening on http://0.0.0.0:8080/ 
+[2023-03-02T19:39:13.139Z] info    - Authentication is enabled
+[2023-03-02T19:39:13.139Z] info      - Using password from ~/.config/code-server/config.yaml
+[2023-03-02T19:39:13.139Z] info    - Not serving HTTPS 
+[20:39:24] 
+
+
+
+
+[20:39:24] Extension host agent started.
+[2023-03-02T19:39:35.009Z] info  code-server 4.9.1 f7989a4dfcf21085e52157a01924d79d708bcc05
+[2023-03-02T19:39:35.010Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-03-02T19:39:35.021Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-03-02T19:39:35.021Z] info  HTTP server listening on http://0.0.0.0:8080/ 
+[2023-03-02T19:39:35.021Z] info    - Authentication is enabled
+[2023-03-02T19:39:35.021Z] info      - Using password from ~/.config/code-server/config.yaml
+[2023-03-02T19:39:35.021Z] info    - Not serving HTTPS 
+[20:39:46] 
+
+
+
+
+[20:39:46] Extension host agent started.
+[20:40:15] [192.168.127.235][c27d8db7][ManagementConnection] New connection established.
+[20:41:02] [192.168.127.235][ada059d8][ExtensionHostConnection] New connection established.
+[20:41:03] [192.168.127.235][ada059d8][ExtensionHostConnection] <568> Launched Extension Host Process.
